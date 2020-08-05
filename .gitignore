@@ -558,3 +558,7 @@ GameProgramming/倉庫番/倉庫番/Project/.vs/BaseProject/v16/ipch/AutoPCH/78a
 GameProgramming/倉庫番/倉庫番/Project/.vs/BaseProject/v16/ipch/AutoPCH/f2949a98912547f4/WINMAIN.ipch
 *.filters
 *.user
+*.db-shm
+*.db-wal
+*.opendb
+*.ipch
